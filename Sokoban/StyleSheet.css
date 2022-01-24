@@ -1,0 +1,39 @@
+﻿
+    #demo {color: rgb(65, 53, 25);}
+    
+
+.tile-Wall {
+    background: rgb(197, 173, 173);
+    width: 23;
+    height: 23;
+    border: 1px solid rgb(180, 179, 179); 
+    
+}
+
+.tile-Floor {
+    background: #d6cfc1;
+    width: 23;
+    height: 23;
+    border: 1px solid rgb(180, 179, 179); 
+}
+
+.tile-Goal {
+    background: goldenrod;
+    width: 23;
+    height: 23;
+    border: 1px solid rgb(180, 179, 179);  
+}
+
+.entity-Player {
+    background: purple;
+    width: 23;
+    height: 23;
+    border: 1px solid rgb(83, 24, 44); 
+}
+
+.entity-Block {
+    background: #6e4643;
+    width: 23;
+    height: 23;
+    border: 1px solid rgb(27, 27, 27); 
+}
